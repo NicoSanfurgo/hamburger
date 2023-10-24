@@ -1,1 +1,2 @@
-# hamburger
+# Hamburger
+HTML, CSS, JAVASCRIPT
